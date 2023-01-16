@@ -1,0 +1,11 @@
+body {
+    background-color: darkmagenta;
+    color: white;
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+#home-type-writer {
+    font-size: 3em;
+    margin: 100px;
+    transition: opacity .2s;
+}
